@@ -25,6 +25,7 @@ Ensure you have the following installed on your local machine:
 - Node.js and npm (Node Package Manager)
 - Git
 
+
 ### Installation
 
 1. Fork this repository to your GitHub account.
@@ -51,15 +52,11 @@ Copy code
 npm start
 Your application should now be running at http://localhost:3000/.
 
-🛠️ Built With
+###🛠️ Built With
 React.js
 Tailwind CSS
-(Any other tech stacks used)
 🧑‍💻 Contributing
 We encourage you to contribute to Fresh&Local! Please check out the Contributing to Fresh&Local guide for guidelines about how to proceed.
 
-📖 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-📬 Contact
+###📬 Contact
 If you need any help, feel free to reach out to us at email. Also, you can create an issue via GitHub Issues.
