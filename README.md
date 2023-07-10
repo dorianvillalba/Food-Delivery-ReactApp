@@ -32,3 +32,34 @@ Ensure you have the following installed on your local machine:
 
 ```bash
 git clone https://github.com/username/freshnlocal.git
+
+Navigate into the cloned repository.
+
+```bash
+
+cd freshnlocal
+
+Install the project dependencies.
+bash
+
+Copy code
+npm install
+Start the development server.
+bash
+
+Copy code
+npm start
+Your application should now be running at http://localhost:3000/.
+
+🛠️ Built With
+React.js
+Tailwind CSS
+(Any other tech stacks used)
+🧑‍💻 Contributing
+We encourage you to contribute to Fresh&Local! Please check out the Contributing to Fresh&Local guide for guidelines about how to proceed.
+
+📖 License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+📬 Contact
+If you need any help, feel free to reach out to us at email. Also, you can create an issue via GitHub Issues.
