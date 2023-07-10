@@ -8,11 +8,9 @@ Our mission is to bridge the gap between local farmers and consumers, making fre
 
 - Browse local food options 
 - Order directly from farmers' markets
-- Schedule deliveries 
-- Rate and review vendors 
-- Maintain a list of favorites
+- Sort by Price and Category
+- See promotions and offers
 
-(Add any other features you have)
 
 ## 🚀 Getting Started
 
