@@ -9,7 +9,7 @@ Our mission is to bridge the gap between local farmers and consumers, making fre
 - Browse local food options 
 - Order directly from farmers' markets
 - Sort by Price and Category
-- See promotions and offers
+- See Promotions and offers
 
 
 ## 🚀 Getting Started
