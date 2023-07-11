@@ -2,7 +2,7 @@
 
 Fresh&Local is a food delivery application built using React.js and Tailwind CSS. It is designed to support local businesses and promote healthier options from farmers' markets and similar vendors.
 
-Our mission is to bridge the gap between local farmers and consumers, making fresh and healthier food options more accessible and convenient. Fresh&Local allows users to order directly from local farmers' markets and have their orders delivered to their doorstep.
+Designed to bridge the gap between local farmers and consumers, making fresh and healthier food options more accessible and convenient. Fresh&Local allows users to order directly from local farmers' markets and have their orders delivered to their doorstep.
 
 Preview Video: https://youtu.be/v_daWUn_ZkU
 
